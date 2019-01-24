@@ -4,8 +4,8 @@
   <artifactId>eventbus</artifactId>
   <versioning>
     <versions>
-      <version>0.0.2-SNAPSHOT</version>
+      <version>0.0.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190124054041</lastUpdated>
+    <lastUpdated>20190124064839</lastUpdated>
   </versioning>
 </metadata>

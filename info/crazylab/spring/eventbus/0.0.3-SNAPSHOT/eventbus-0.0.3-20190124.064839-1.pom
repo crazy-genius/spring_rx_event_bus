@@ -6,7 +6,7 @@
 
     <groupId>info.crazylab.spring</groupId>
     <artifactId>eventbus</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
 
     <properties>
         <github.global.server>github</github.global.server>
