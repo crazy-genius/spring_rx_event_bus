@@ -1,7 +1,7 @@
-package info.crazylab.spring.eventbus;
+package info.crazylab.lib.spring.eventbus;
 
-import info.crazylab.event.eventbus.EventBus;
-import info.crazylab.event.eventbus.EventBusImplementation;
+import info.crazylab.lib.eventbus.EventBus;
+import info.crazylab.lib.eventbus.EventBusImplementation;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

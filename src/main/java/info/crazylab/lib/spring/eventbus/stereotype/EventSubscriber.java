@@ -1,4 +1,4 @@
-package info.crazylab.spring.eventbus.stereotype;
+package info.crazylab.lib.spring.eventbus.stereotype;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

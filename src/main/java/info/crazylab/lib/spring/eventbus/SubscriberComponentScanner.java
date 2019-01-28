@@ -1,7 +1,7 @@
-package info.crazylab.spring.eventbus;
+package info.crazylab.lib.spring.eventbus;
 
-import info.crazylab.event.eventbus.Subscriber;
-import info.crazylab.spring.eventbus.stereotype.EventSubscriber;
+import info.crazylab.lib.eventbus.Subscriber;
+import info.crazylab.lib.spring.eventbus.stereotype.EventSubscriber;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.beans.factory.config.ConfigurableListableBeanFactory;
